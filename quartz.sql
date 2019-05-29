@@ -1,18 +1,3 @@
-/*
- Navicat Premium Data Transfer
-
- Source Server         : 115
- Source Server Type    : MySQL
- Source Server Version : 50537
- Source Host           : 115.29.32.62
- Source Database       : quartz
-
- Target Server Type    : MySQL
- Target Server Version : 50537
- File Encoding         : utf-8
-
- Date: 09/28/2018 14:11:17 PM
-*/
 
 SET NAMES utf8mb4;
 SET FOREIGN_KEY_CHECKS = 0;
